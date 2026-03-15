@@ -8,7 +8,7 @@ A high-performance, gamified To-Do list application built with **React**, **Vite
 
 ## ✨ Features
 
-- **🌿 Plant Growth System**: Earn 5ml, 10ml, or 20ml of water based on task priority. Watch your plant evolve from a Seedling to a Blooming Tree!
+- **🌿 Plant Growth System**: Earn 5ml, 10ml, or 20ml of water based on task priority.(Inspired by MS Edge Virtual Plant) Watch your plant evolve from a Seedling to a Blooming Tree!
 - **📅 Smart Deadlines**: Set due dates for your tasks. The app automatically flags "Overdue" tasks with a pulsing alert. 
 - **📈 Weekly Stats**: A sleek bar chart visualizing your watering history over the last 7 days.
 - **🔍 Filter & Sort**: Organize your view by Category (Work, Study, Personal, General) and sort by Priority, Date, or Name.
@@ -36,12 +36,12 @@ A high-performance, gamified To-Do list application built with **React**, **Vite
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/priority-todo.git
+   git clone https://github.com/siddhali24/To-do-list.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd priority-todo
+   cd To-do-list
    ```
 
 3. Install dependencies:
