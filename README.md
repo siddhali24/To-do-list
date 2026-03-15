@@ -42,6 +42,7 @@ A high-performance, gamified To-Do list application built with **React**, **Vite
 2. Navigate to the project directory:
    ```bash
    cd To-do-list
+   cd frontend
    ```
 
 3. Install dependencies:
